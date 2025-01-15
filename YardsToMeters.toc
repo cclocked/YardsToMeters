@@ -1,0 +1,7 @@
+## Interface: 11505
+## Title: Yards to Meters
+## Notes: converts all mentions of yards to Meters.
+## Author: cclocked
+## Version: 0.0.1
+## SavedVariables: YardsToMetersDB
+YardsToMeters.lua
