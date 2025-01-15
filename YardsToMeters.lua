@@ -8,7 +8,6 @@ local function replaceYardsWithMeters(text)
 end
 
 local function modifyTooltip(self)
-    print("Tooltip modification function called")
 
     local spellID = select(2, self:GetSpell())
     if not spellID then
